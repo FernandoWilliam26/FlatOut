@@ -14,7 +14,7 @@ Desde la parte visual vas a poder:
   Para que cada uno tenga su cuenta y sus tramos.
 
 - **Crear tramos de rally**  
-  Puedes añadir:
+
     - Nombre del tramo
     - Ubicación GPS
     - Características del terreno
